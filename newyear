@@ -1,0 +1,21 @@
+#!/bin/bash
+
+clear
+echo "--------------------------------------"
+echo "🎉 Happy New Year 2025! 🎉"
+echo "--------------------------------------"
+sleep 1
+echo "May this year bring you joy and success!"
+echo "Launching fireworks..."
+sleep 2
+
+for i in {1..10}
+do
+    echo "✨✨✨"
+    sleep 0.5
+done
+
+echo "--------------------------------------"
+echo "🎆 Celebrate Responsibly! 🎆"
+echo "--------------------------------------"
+exit 0
